@@ -44,9 +44,6 @@
 
 ## Підходи та способи вирішення завдання
 
-<p align="center">
-  <img src="https://entrant.eu/wp-content/uploads/2017/12/inozemni-studenty-v-polshhi.png" alt="Статистика Польщі">
-</p>
 
 ### Системи відкритих даних у світі
 
